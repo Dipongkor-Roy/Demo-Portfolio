@@ -11,7 +11,7 @@ h3{
 .orange{
     color:orange;
 }
-section{
+.flexiable-Container{
      display: flex;
      padding-left: 5%;
      margin-bottom: 100px;
@@ -25,7 +25,7 @@ section{
 .Link-Button{
     text-decoration: none;
     background-image: linear-gradient(orange,tomato);
-    padding : 5%;
+    padding : 3%;
     color: white;
     font-weight: 550;
     border-radius: 5%;  
